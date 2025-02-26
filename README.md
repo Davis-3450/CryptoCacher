@@ -36,7 +36,7 @@ Note: this is a learning project
 
 ### Roadmap
 
-- [] Docker image
-- [] Real time strategy testing (eg: tringular arbitrage)
-- [] Implement tests - pytest
-- [] GUI -> maybe streamlit / gradio / front with flask
+- [ ] Docker image
+- [ ] Real time strategy testing (eg: tringular arbitrage)
+- [ ] Implement tests - pytest
+- [ ] GUI -> maybe streamlit / gradio / front with flask
