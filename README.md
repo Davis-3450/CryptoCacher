@@ -31,7 +31,7 @@ Note: this is a learning project
 ### Prerequisites
 
 - Docker and Docker Compose
-- Python 3.8+ | uv astral
+- Python 3.8+ and uvicorn
 - Binance API credentials
 
 ### Roadmap
